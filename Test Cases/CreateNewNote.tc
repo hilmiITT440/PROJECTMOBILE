@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateNewNote</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67ba1f2f-058c-4093-8c8e-32cddbe0b136</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d47902f5-ebd1-428a-a772-66c8335c5084</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/MobileTestData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>d47902f5-ebd1-428a-a772-66c8335c5084</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>text</value>
+      <variableId>f7be825f-d8ac-4805-8454-a022e3c586e2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test add new note'</defaultValue>
+      <description></description>
+      <id>f7be825f-d8ac-4805-8454-a022e3c586e2</id>
+      <masked>false</masked>
+      <name>text</name>
+   </variable>
+</TestCaseEntity>
